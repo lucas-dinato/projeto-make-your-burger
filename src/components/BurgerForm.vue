@@ -33,7 +33,7 @@
                     </div>
                 </div>
                 <div class="input-container">
-                    <input type="submit" class="submit-btn" value="Criar meu Burger!">
+                    <input type="submit" class="submit-btn" value="Criar Burger!">
                 </div>
             </form>
         </div>
